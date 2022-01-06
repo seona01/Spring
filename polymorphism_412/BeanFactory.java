@@ -10,6 +10,6 @@ public class BeanFactory {
 		return null;
 	}
 	
-	// 디자인 패턴 이용 : BeanFactory 클래스(객체 관리) 추가
+	
 }
 
